@@ -14,12 +14,12 @@
 <br>
 
 <p align="center">
-<!--   <a title="Portfolio" href="https://sutharp777.github.io/">
+  <a title="Portfolio" href="https://sultansingh731.github.io/">
     <img src="https://cdn0.iconfinder.com/data/icons/web-development-79/32/development_globe_sphere-64.png" width="50" height="50" />
   </a>
   &nbsp;
-  &nbsp; -->
-  <a title="LinkedIn" href="https://www.linkedin.com/in/sultan-singh-sodha-9546b1182/">
+  &nbsp;
+  <a title="LinkedIn" href="https://www.linkedin.com/in/sultansingh731/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
   </a>
   &nbsp;
@@ -31,7 +31,7 @@
   &nbsp;
   &nbsp;
   
-  <a title="Twitter" href="https://twitter.com/Sultans97154282">
+  <a title="Twitter" href="https://twitter.com/sultansingh731">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-64.png" width="50" height="50" />
   </a>
 </p>
